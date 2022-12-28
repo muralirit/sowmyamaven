@@ -72,4 +72,10 @@
       </plugins>
     </pluginManagement>
   </build>
+  <distributionManagement>
+    <snapshotRepository>
+      <id>nexusoss</id>
+      <url>http://localhost:8081/repository/nexusmaven/</url>
+    </snapshotRepository>
+  <distributionManagement>
 </project>
